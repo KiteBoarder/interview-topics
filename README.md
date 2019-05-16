@@ -24,6 +24,9 @@
 ## 2nd level resources:
 * The Algorithm Design Manual (Steven Skiena)
 
+# Design: 
+* Donne martin: https://github.com/donnemartin/system-design-primer
+
 # Bootcamps: 
 * Interview kickstart
 * Outco
