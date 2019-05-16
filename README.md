@@ -21,6 +21,9 @@
 * CLR (book)
 * Elements of programming interviews (Book)
 
+## 2nd level resources:
+* The Algorithm Design Manual (Steven Skiena)
+
 # Bootcamps: 
 * Interview kickstart
 * Outco
