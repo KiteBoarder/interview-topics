@@ -11,4 +11,17 @@
 * Design patterns
 * Object oriented programming
 
+# Resources: 
+* leetcode
+* CTCI (Book)
+* pramp
+* Interview cake
+* Interview Bit
+* hacker rank 
+* CLR (book)
+* Elements of programming interviews (Book)
+
+# Bootcamps: 
+* Interview kickstart
+* Outco
 
