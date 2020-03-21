@@ -5,9 +5,11 @@
 * BST
 * Matrix, Grids
 * Recursion
+* Divide and Conquer
 * DP, Memoization
 * Loop invariant
 * Greedy
+* Sliding Window
 * Design patterns
 * Object oriented programming
 
@@ -26,6 +28,7 @@
 
 # Design: 
 * Donne martin: https://github.com/donnemartin/system-design-primer
+* https://github.com/checkcheckzz/system-design-interview
 
 # Bootcamps: 
 * Interview kickstart
