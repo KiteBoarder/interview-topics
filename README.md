@@ -30,7 +30,7 @@
 # Design: 
 * Donne martin: https://github.com/donnemartin/system-design-primer
 * https://github.com/checkcheckzz/system-design-interview
-* https://github.com/vasanthk/how-web-works
+* how web works: https://github.com/vasanthk/how-web-works
 
 # Bootcamps: 
 * Interview kickstart
