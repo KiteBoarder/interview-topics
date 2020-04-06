@@ -33,6 +33,7 @@
 * how web works: https://github.com/vasanthk/how-web-works
 * Grokking the System Design Interview https://www.educative.io/courses/grokking-the-system-design-interview
 * A coder journey: https://www.acodersjourney.com/tag/system-design-interviews/
+* techtakshila: https://techtakshila.com/system-design-interview/chapter-1
 
 # Bootcamps: 
 * Interview kickstart
