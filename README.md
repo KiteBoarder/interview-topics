@@ -6,7 +6,7 @@
 * Matrix, Grids
 * Recursion
 * Divide and Conquer (Quick select)
-* DP, Memoization (LIS, LCS)
+* DP, Memoization (LIS, LCS, 0/1 knapsack)
 * Loop invariant
 * Greedy (Dijkstra, Min Spanning Tree, Activity selection)
 * Sliding Window
