@@ -5,10 +5,10 @@
 * BST
 * Matrix, Grids
 * Recursion
-* Divide and Conquer
-* DP, Memoization
+* Divide and Conquer (Quick select)
+* DP, Memoization (LIS, LCS)
 * Loop invariant
-* Greedy
+* Greedy (Dijkstra, Min Spanning Tree, Activity selection)
 * Sliding Window
 * Design patterns
 * Object oriented programming
