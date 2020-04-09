@@ -29,7 +29,8 @@
 
 # Design: 
 * Donne martin: https://github.com/donnemartin/system-design-primer
-* https://github.com/checkcheckzz/system-design-interview
+* checkcheckzz: https://github.com/checkcheckzz/system-design-interview
+* interview bit: https://www.interviewbit.com/courses/system-design/
 * how web works: https://github.com/vasanthk/how-web-works
 * Grokking the System Design Interview https://www.educative.io/courses/grokking-the-system-design-interview
 * A coder journey: https://www.acodersjourney.com/tag/system-design-interviews/
