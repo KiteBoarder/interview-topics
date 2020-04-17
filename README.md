@@ -30,6 +30,7 @@
 # Design: 
 * Donne martin: https://github.com/donnemartin/system-design-primer
 * checkcheckzz: https://github.com/checkcheckzz/system-design-interview
+* leetcode: https://leetcode.com/discuss/interview-question/system-design
 * interview bit: https://www.interviewbit.com/courses/system-design/
 * how web works: https://github.com/vasanthk/how-web-works
 * Grokking the System Design Interview https://www.educative.io/courses/grokking-the-system-design-interview
